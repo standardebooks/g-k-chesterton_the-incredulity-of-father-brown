@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-12-04T18:59:02Z</dc:date>
+		<meta property="dcterms:modified">2022-12-04T18:59:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,15 +53,15 @@
 		<dc:description id="description">The third set of stories of a Catholic priest who is also an amateur detective.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/father-brown"&gt;Father Brown&lt;/a&gt;, full-time Catholic priest and part-time amateur detective, returns in this third collection of short stories.&lt;/p&gt;
-			&lt;p&gt;Unlike the first two collections, this time Father Brown is investigating alone; his sidekick, the former criminal Flambeau, is nowhere to be seen. Father Brown has to solve a murder (including his own!) in each story, and since several also appear to involve the supernatural, he has ample opportunity to elaborate on his thoughts concerning it. As with the first two collections, &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;Chesterton&lt;/a&gt; is often as concerned with the moral of the story as the mystery itself.&lt;/p&gt;
-			&lt;p&gt;Most of the stories were previously published in &lt;i&gt;The Pall Mall Magazine&lt;/i&gt;, one appeared in &lt;i&gt;Cassell’s Magazine&lt;/i&gt;, and one was written specifically for this collection.&lt;/p&gt;
+			&lt;p&gt;Unlike the first two collections, this time Father Brown is investigating alone; his sidekick, the former criminal Flambeau, is nowhere to be seen. Father Brown has to solve a murder (including his own!) in each story, and since several also appear to involve the supernatural, he has ample opportunity to elaborate on his thoughts concerning it. As with the first two collections, &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;Chesterton&lt;/a&gt; is often as concerned with the moral of the story as with the mystery itself.&lt;/p&gt;
+			&lt;p&gt;Most of the stories were previously published in &lt;i&gt;The Pall Mall Magazine&lt;/i&gt;, though one appeared in &lt;i&gt;Cassell’s Magazine&lt;/i&gt; and another was written specifically for this collection.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20120749</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.463891</dc:source>
 		<meta property="se:production-notes">The transcription from Faded Page is from a non-PD omnibus of several of the Father Brown collections, so careful proofing against the PD scans was done to ensure the text matched the scans.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">72378</meta>
+		<meta property="se:reading-ease.flesch">68.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Incredulity_of_Father_Brown</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_the-incredulity-of-father-brown</meta>
 		<dc:creator id="author">G. K. Chesterton</dc:creator>
@@ -98,6 +98,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
